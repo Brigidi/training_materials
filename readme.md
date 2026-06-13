@@ -5,17 +5,18 @@ the repo is structured in a way the intends to have the previous language compli
 
 ## languages 
 the following modules focus on the syntax needed when trying to do _things_:
-- [shell](https://github.com/Brigidi/training_materials/tree/main/shell)
-- [markdown](https://github.com/Brigidi/training_materials/tree/main/markdown)
-- [git](https://github.com/Brigidi/training_materials/tree/main/git)
-- [sql](https://github.com/Brigidi/training_materials/tree/main/sql)
-- [python](https://github.com/Brigidi/training_materials/tree/main/python)
+- [**shell**](https://github.com/Brigidi/training_materials/tree/main/shell)
+- [**markdown**](https://github.com/Brigidi/training_materials/tree/main/markdown)
+- [**git**](https://github.com/Brigidi/training_materials/tree/main/git)
+- [**sql**](https://github.com/Brigidi/training_materials/tree/main/sql)
+- [**python**](https://github.com/Brigidi/training_materials/tree/main/python)
 - [**javascript**](https://github.com/Brigidi/training_materials/tree/main/javascript)
 
 ## concepts
 the following modules focus on the philosophical approach i believe is crucial in scaling success when trying to intentionally drive outcomes:
 - **documentation**
 - **organization**
+- **communication**
 
 ## repo structure
 each directory contains the following:
