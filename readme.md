@@ -11,4 +11,9 @@ the repo is structured in a way the intends to have the previous language compli
 - [python](https://github.com/Brigidi/training_materials/tree/main/python)
 - [javascript](https://github.com/Brigidi/training_materials/tree/main/javascript)
 
+## repo structure
+each directory contains the following:
 
+1. readme, which tries to provide a summary overview of the language
+2. cheat sheet, which provides high-level commands that should help you get started
+3. lessons, which attempt to contextualize the commands in practical scenarios
