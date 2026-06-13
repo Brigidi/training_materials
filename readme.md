@@ -10,18 +10,18 @@ the following modules focus on the syntax needed when trying to do _things_:
 - [git](https://github.com/Brigidi/training_materials/tree/main/git)
 - [sql](https://github.com/Brigidi/training_materials/tree/main/sql)
 - [python](https://github.com/Brigidi/training_materials/tree/main/python)
-- [javascript](https://github.com/Brigidi/training_materials/tree/main/javascript)
+- [**javascript**](https://github.com/Brigidi/training_materials/tree/main/javascript)
 
 ## concepts
 the following modules focus on the philosophical approach i believe is crucial in scaling success when trying to intentionally drive outcomes:
-- documentation
-- organization
+- **documentation**
+- **organization**
 
 ## repo structure
 each directory contains the following:
 
-1. readme, which tries to provide a summary overview of the language
-2. cheat sheet, which provides high-level commands that should help you get started
-3. lessons, which attempt to contextualize the commands in practical scenarios
+1. **readm**e, which tries to provide a summary overview of the language
+2. **cheat sheet**, which provides high-level commands that should help you get started
+3. **lessons**, which attempt to contextualize the commands in practical scenarios
 
 additionally, i hope to figure out a way to establish a dictionary, which will give shape to the vocabulary of these leassons.
