@@ -69,4 +69,9 @@ if you want to delete a folder but it has anything in it, then you will need to 
 
 the ```-f``` command will override safety prompts and write protected files. You will not be asked a follow-up question before removal; and the contents will not be retrievable via the "trash". 
 
-the reasons ```rm -rf``` can be extremely dangerous is if you use it at lower-levels of your operating system. that doesn't mean you should not use the command; it merely means you should be mindful and intentional when using it. 
+the reasons ```rm -rf``` can be extremely dangerous is if you use it at lower-levels of your operating system. that doesn't mean you should not use the command; it merely means you should be mindful and intentional when using it.
+
+## test code block
+```
+pwd
+``` 
