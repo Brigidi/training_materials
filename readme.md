@@ -5,7 +5,7 @@ the repo is structured in a way the intends to have the previous language compli
 
 ## languages 
 - [markdown](https://github.com/Brigidi/training_materials/tree/main/markdown)
-- [bash](https://github.com/Brigidi/training_materials/tree/main/bash)
+- [command_line](https://github.com/Brigidi/training_materials/tree/main/command_line)
 - [git](https://github.com/Brigidi/training_materials/tree/main/git)
 - [sql](https://github.com/Brigidi/training_materials/tree/main/sql)
 - [python](https://github.com/Brigidi/training_materials/tree/main/python)
