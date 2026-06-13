@@ -63,6 +63,8 @@ the following will outline some commands to manage directories (aka *folders*).
 
 if you want to delete a folder but it has anything in it, then you will need to use a **potentially dangerous ** command. please be careful when using the following:
 
+| command | what it means | what it does |
+| :---: | :---: | :---: |
 | rm -rf | remove recursively and forcefully | removes all files, sub-directories, and nested data |
 
 the ```-f``` command will override safety prompts and write protected files. You will not be asked a follow-up question before removal; and the contents will not be retrievable via the "trash". 
