@@ -73,4 +73,25 @@ the ```-f``` command will override safety prompts and write protected files. You
 
 the reasons ```rm -rf``` can be extremely dangerous is if you use it at lower-levels of your operating system. that doesn't mean you should not use the command; it merely means you should be mindful and intentional when using it.
 
+## files
+the following will outline how to manage files, which will be stored within your directories.
+
+| command | what it means | what it does |
+| :---: | :---: | :---: |
+| touch | legacy word from early computing | creates a file |
+| mv | move | allows you to move a file to a location in your system |
+| scp | secure copy protocol | makes a copy of a file in a specified location |
+| rm | remove | deletes a file from your system |
+
+you can create file types the same way you would when using your gui. here is a breif overview of some file types you might want to create:
+
+| type | notes |
+| :---: | :---: |
+| .txt | text file |
+| .md | markdown file |
+| .py | python file |
+| .yaml | yet another markup language file |
+| .csv | comma-separated value file |
+| .json | java-script object notation file |
+| .sql | structured query language file |
 
