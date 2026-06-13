@@ -4,8 +4,8 @@ hello — this repository aspires to provide fundamental footnotes for using var
 the repo is structured in a way the intends to have the previous language compliments the next. With that said, you can work through each lesson in any order you want.
 
 ## languages 
-- [markdown](https://github.com/Brigidi/training_materials/tree/main/markdown)
 - [shell](https://github.com/Brigidi/training_materials/tree/main/shell)
+- [markdown](https://github.com/Brigidi/training_materials/tree/main/markdown)
 - [git](https://github.com/Brigidi/training_materials/tree/main/git)
 - [sql](https://github.com/Brigidi/training_materials/tree/main/sql)
 - [python](https://github.com/Brigidi/training_materials/tree/main/python)
