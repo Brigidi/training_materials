@@ -5,9 +5,9 @@ the repo is structured in a way the intends to have the previous language compli
 
 ## languages 
 - [bash](https://github.com/Brigidi/training_materials/tree/main/bash)
-- git
-- sql
-- python
-- javascript
+- [git](https://github.com/Brigidi/training_materials/tree/main/git)
+- [sql](https://github.com/Brigidi/training_materials/tree/main/sql)
+- [python](https://github.com/Brigidi/training_materials/tree/main/python)
+- [javascript](https://github.com/Brigidi/training_materials/tree/main/javascript)
 
 
