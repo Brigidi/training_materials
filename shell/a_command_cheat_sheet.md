@@ -7,7 +7,9 @@ there are variations of shell syntax, which means some of the commands listed in
 ## how to identify your shell language
 open up your terminal interface and enter the following command:
 
-```echo $SHELL```
+```
+echo $SHELL
+```
 
 the output will likely provide one of the following:
 
@@ -71,7 +73,4 @@ the ```-f``` command will override safety prompts and write protected files. You
 
 the reasons ```rm -rf``` can be extremely dangerous is if you use it at lower-levels of your operating system. that doesn't mean you should not use the command; it merely means you should be mindful and intentional when using it.
 
-## test code block
-```
-pwd
-``` 
+
