@@ -1,5 +1,7 @@
 # shell
-a "shell" is the window where you enter commands that directly interact with a computer's operating system. please note: this repo is largely written from the perspective of using terminal with mac/linux. the experience might differ for people using other machines/operating systems.
+a "shell" is the program where you enter commands that directly interact with a computer's operating system. 
+
+please note: this repo is largely written from the perspective of using terminal with mac/linux. the experience might differ for people using other machines/operating systems.
 
 ## where you will use shell
 anytime you use a computer, you have an opportunity to use shell syntax.
