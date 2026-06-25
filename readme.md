@@ -10,7 +10,7 @@ the following modules focus on the syntax needed when trying to do _things_:
 - [**git**](https://github.com/Brigidi/training_materials/tree/main/git)
 - [**sql**](https://github.com/Brigidi/training_materials/tree/main/sql)
 - [**python**](https://github.com/Brigidi/training_materials/tree/main/python)
-- [**google_apps_script**](https://github.com/Brigidi/training_materials/tree/main/google_apps_script)
+- [**google_apps_script**](../languages/google_apps_script)
 
 ## concepts
 the following modules focus on the philosophical approach i believe is crucial in scaling success when trying to intentionally drive outcomes:
