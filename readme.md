@@ -5,11 +5,11 @@ the repo is structured in a way the intends to have the previous language compli
 
 ## languages 
 the following modules focus on the syntax needed when trying to do _things_:
-- [**shell**](https://github.com/Brigidi/training_materials/tree/main/shell)
-- [**markdown**](https://github.com/Brigidi/training_materials/tree/main/markdown)
-- [**git**](https://github.com/Brigidi/training_materials/tree/main/git)
-- [**sql**](https://github.com/Brigidi/training_materials/tree/main/sql)
-- [**python**](https://github.com/Brigidi/training_materials/tree/main/python)
+- [**shell**](/languages/shell)
+- [**markdown**](/languages/markdown)
+- [**git**](/languages/git)
+- [**sql**](/languages/sql)
+- [**python**](/languages/python)
 - [**google_apps_script**](/languages/google_apps_script)
 
 ## concepts
