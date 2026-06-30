@@ -11,6 +11,7 @@ the following modules focus on the syntax needed when trying to do _things_:
 - [**sql**](/languages/sql)
 - [**python**](/languages/python)
 - [**google_apps_script**](/languages/google_apps_script)
+- [**vim**](/languages/vim)
 
 ## concepts
 the following modules focus on the philosophical approach i believe is crucial in scaling success when trying to intentionally drive outcomes:
@@ -21,7 +22,7 @@ the following modules focus on the philosophical approach i believe is crucial i
 ## repo structure
 each directory contains the following:
 
-1. **readm**e, which tries to provide a summary overview of the language
+1. **readme**, which tries to provide a summary overview of the language
 2. **cheat sheet**, which provides high-level commands that should help you get started
 3. **lessons**, which attempt to contextualize the commands in practical scenarios
 
