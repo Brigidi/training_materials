@@ -40,10 +40,10 @@ the following will help you delete or replace words.
 | replaces a single character | normal | ```r``` + ```new_character``` | replaces the character underneath the cursor |
 | undo what you did | normal | ```u``` | undo previous action | 
 | redo previous undo | normal | ```ctrl``` + ```r``` | redo your undo |
-| delete from cursor to end of line | normal | ```D``` | delete to end of line |
+| delete from cursor to end of line | normal | ```shift``` + ```d``` | delete to end of line |
 | delete from cursor to start of line | normal | ```d``` + ```0``` | delete to start of line |
 | delete word you are on | normal| ```d``` + ```i``` + ```w``` | delete inner word ignoring spaces |
-| delete to the end of file | normal | ```d``` + ```G``` | deletes everything from cursor to end of file |
+| delete to the end of file | normal | ```d``` + ```shift``` +  ```g``` | deletes everything from cursor to end of file |
 | delete to the start of file | normal | ```d``` + ```g``` + ```g``` | deletes everything to start of file |
 | delete to end of paragraph | normal | ```d``` + ```}``` | deletes to end of paragraph |
 | delete to start of paragraphy | normal | ```d``` + ```{``` | deletes to start of paragraph |
