@@ -12,6 +12,7 @@ the following modules focus on the syntax needed when trying to do _things_:
 - [**python**](/languages/python)
 - [**google_apps_script**](/languages/google_apps_script)
 - [**vim**](/languages/vim)
+- [**google_sheets**](/languages/google_sheets)
 
 ## concepts
 the following modules focus on the philosophical approach i believe is crucial in scaling success when trying to intentionally drive outcomes:
