@@ -29,6 +29,6 @@ and making commits
 
 ```shell
 
-commit -m "message_goes_here"
+git commit -m "message_goes_here"
 
 ```
